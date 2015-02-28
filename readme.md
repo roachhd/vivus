@@ -17,7 +17,7 @@ On the following images, the pink color represents the `duration` value, and the
 
 Every path element is drawn at the same time with a small delay at the start. This is currently the default animation.
 
-### Async
+### Async 
 
 ![Timeline for async animation](https://raw.github.com/maxwellito/vivus/master/assets/async.png)
 
